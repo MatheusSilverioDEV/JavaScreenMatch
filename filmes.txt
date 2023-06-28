@@ -1,0 +1,1 @@
+nome = Toy Story / ano de lançamento = 1995 / duração = 81
